@@ -1,5 +1,9 @@
 # SPM-Group-11-Financial-Literacy-App
 
+## Project Description
+
+The project, Finwise aims to develop a comprehensive Financial Literacy App designed to enhance users' understanding of personal finance, investment strategies, and portfolio management. The app bridges the gap between theoretical financial knowledge and practical application by offering interactive learning modules, real-time portfolio comparison tools, and advanced investment analyzers. Targeting diverse user groups, including young adults, early professionals, financial advisors, and educational institutions, the app provides tailored learning paths to cater to varying financial literacy levels. Through a user-friendly interface, gamified features, and real-world investment simulations, the app enables users to practice financial decision-making in a risk-free environment, empowering them to achieve financial stability, improve long-term planning, and foster confidence in managing personal finances.
+
 ## Project Deliverables
 
 ### Deliverable 1
